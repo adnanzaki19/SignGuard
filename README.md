@@ -1,5 +1,5 @@
 # SignGuard: Gestrure Triggered Emergency Alert System
-![DALL·E 2024-01-10 00 46 48 - Create a simplified logo for 'SignGuard'  The logo should focus on the text 'SignGuard' in a modern, clean font, suitable for a high-tech brand  Use a](https://github.com/adnanzaki19/SignGuard/assets/68474810/617be6c6-488a-4ed9-87f5-fa6d42e14425)
+![DALL·E 2024-01-10 00 46 48 - Create a simplified logo for 'SignGuard'  The logo should focus on the text 'SignGuard' in a modern, clean font, suitable for a high-tech brand  Use a](https://github.com/adnanzaki19/SignGuard/assets/68474810/99a5ffab-5d3a-4a18-a8be-f1a032bb0486)
 
 ## Overview
 SignGuardian is a desktop application that utilizes advanced computer vision and machine learning technologies to recognize American Sign Language (ASL) gestures, specifically targeting emergency distress signals. The application runs silently in the background and triggers alerts or contacts emergency services when a specific ASL gesture for help is detected.
